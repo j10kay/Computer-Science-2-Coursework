@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-#include "IntNode.cpp"
-
 struct node{       //Linked List Node
   int dataVal;
   node* nextPtr;
